@@ -26,17 +26,17 @@
 # TIẾN ĐỘ
 ## LÝ THUẬT
 ### PHÂN TÍCH THUẬT TOÁN
-- [ ] Kỹ thuật đếm sơ cấp
-- [ ] Phân tích thuật toán là gì ?
-- [ ] Phân tích thuật toán đệ quy
-- [ ] Độ phức tạp
+- [x] Kỹ thuật đếm sơ cấp
+- [x] Phân tích thuật toán là gì ?
+- [x] Phân tích thuật toán đệ quy
+- [x] Độ phức tạp
 ### THIẾT KẾ THUẬT TOÁN
-- [ ] Mô hình hóa bài toán
-- [ ] Cách giải bài toán tối ưu tổ hợp
-- [ ] Quay lui 
-- [ ] Tham lam + Heuristic 
-- [ ] Chia để trị, giảm để trị
-- [ ] Quy hoạch động
+- [x] Mô hình hóa bài toán
+- [x] Cách giải bài toán tối ưu tổ hợp
+- [x] Quay lui 
+- [x] Tham lam + Heuristic 
+- [x] Chia để trị, giảm để trị
+- [x] Quy hoạch động
 ## BÀI TẬP
 ### PHÂN TÍCH THUẬT TOÁN
 ### THIẾT KẾ THUẬT TOÁN
